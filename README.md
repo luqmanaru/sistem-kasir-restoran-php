@@ -12,12 +12,12 @@ Proyek ini adalah simulasi sistem pemesanan di restoran. Pengguna dapat memilih 
 * **Formulir Pemesanan**: Memungkinkan input jenis pesanan, layanan, dan kuantitas.
 * **Kalkulasi Harga Otomatis**: Menghitung total harga berdasarkan jenis dan jumlah pesanan.
 * **Potongan Harga**: Memberikan diskon yang berbeda untuk setiap jenis pesanan:
-    * [cite_start]Makanan: Diskon 17% [cite: 105]
-    * [cite_start]Minuman: Diskon 7% [cite: 114]
-    * [cite_start]Cemilan: Diskon 4% [cite: 123]
+    * Makanan: Diskon 17%
+    * Minuman: Diskon 7% 
+    * Cemilan: Diskon 4%
 * **Biaya Layanan**: Menambahkan biaya tambahan berdasarkan jenis layanan:
-    * [cite_start]Dine-in: Rp 20.000 [cite: 56]
-    * [cite_start]Takeaway: Rp 25.000 [cite: 129]
+    * Dine-in: Rp 20.000 
+    * Takeaway: Rp 25.000 
 * **Struk Pembayaran**: Menampilkan rincian lengkap dari transaksi.
 
 ---
